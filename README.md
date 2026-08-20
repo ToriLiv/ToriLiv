@@ -4,31 +4,30 @@
   </a>
 </p>
 
-<h3 align="center">Building institutional systems by day, game mechanics by night.</h3>
-
+<h3 align="center">"The harder the problem, the more I want to understand it"</h3>
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-8957e5?style=for-the-badge&labelColor=0D0221" />
   <img src="https://img.shields.io/badge/BASED_IN-EL_SALVADOR-d946ef?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/FOCUS-GAME_DEV-22d3ee?style=for-the-badge&labelColor=0D0221" />
 </p>
 
 ---
-
+ 
 ### About Me
-
+ 
 FullStack developer specializing in PHP/Laravel and Java/Spring Boot, with a growing focus on game development in Unity. I build institutional systems, web platforms, and enjoy turning ideas into working software.
-
+ 
 | | |
 |---|---|
 | **Currently working on** | Institutional Systems |
-| **Currently learning** | Videogame Development |
+| **Currently learning** | Game Development |
 | **Looking to collaborate on** | Unity game projects and open-source web tools |
 | **Ask me about** | Web Development, PHP, Laravel, Java/Spring Boot, C#/Unity, .NET |
-
+ 
 ---
-
+ 
 ### Tech Stack
-
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-8957e5?style=for-the-badge&logo=javascript&logoColor=22d3ee" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-8957e5?style=for-the-badge&logo=openjdk&logoColor=22d3ee" alt="Java" />
@@ -65,28 +64,25 @@ FullStack developer specializing in PHP/Laravel and Java/Spring Boot, with a gro
 </p>
 
 ---
-
+ 
 ### Connect With Me
-
+ 
 <p align="left">
-  <a href="https://linkedin.com/in/olivia-victoria-amoss-quintanilla" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/olivia-victoria-amoss-quintanilla" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-8957e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://oliviavictoria.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
   <a href="mailto:oamossquintanilla@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
 </p>
 
 ---
-
-### GitHub Stats
-
+ 
+### Stats
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ToriLiv&layout=compact&theme=tokyonight&title_color=d946ef&icon_color=22d3ee&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToriLiv&bg_color=00000000&color=22d3ee&line=8957e5&point=d946ef&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ToriLiv&layout=compact&theme=tokyonight&title_color=d946ef&icon_color=22d3ee&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ToriLiv&layout=compact&theme=default&title_color=8957e5&icon_color=d946ef&text_color=24292e&hide_border=true&bg_color=ffffff&border_color=8957e5&langs_count=8" />
+    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ToriLiv&layout=compact&theme=tokyonight&title_color=d946ef&icon_color=22d3ee&text_color=c9d1d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  </picture>
 </p>
 
 ---
-<p align="center"><i>From <a href="https://github.com/ToriLiv">ToriLiv</a></i></p>
