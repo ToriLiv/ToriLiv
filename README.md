@@ -17,13 +17,6 @@
  
 FullStack developer specializing in PHP/Laravel and Java/Spring Boot, with a growing focus on game development in Unity. I build institutional systems, web platforms, and enjoy turning ideas into working software.
  
-| | |
-|---|---|
-| **Currently working on** | Institutional Systems |
-| **Currently learning** | Game Development |
-| **Looking to collaborate on** | Unity game projects and open-source web tools |
-| **Ask me about** | Web Development, PHP, Laravel, Java/Spring Boot, C#/Unity, .NET |
- 
 ---
  
 ### Tech Stack
