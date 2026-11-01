@@ -28,3 +28,7 @@
 **The harder the problem, the more I want to understand it.** ⚙️
 
 </div>
+
+<br/>
+
+<img src="https://github.com/ToriLiv/ToriLiv/raw/main/projects.svg?v=1" alt="Projects — pinned builds below" width="100%"/>
