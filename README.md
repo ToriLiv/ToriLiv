@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ToriLiv/ToriLiv/raw/main/connect.svg?v=1" alt="Let's connect" width="100%"/>
+<img src="https://github.com/ToriLiv/ToriLiv/raw/main/connect.svg?v=4" alt="Let's connect" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-3fd0ff?style=for-the-badge&logo=github&logoColor=0d0b14)](https://github.com/ToriLiv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c8a15a?style=for-the-badge&logoColor=0d0b14)](https://linkedin.com/in/olivia-victoria-amoss-quintanilla)
