@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ToriLiv/ToriLiv/raw/main/about-life.svg?v=3" alt="What I build, and life beyond the code" width="100%"/>
 
-<img src="https://github.com/ToriLiv/ToriLiv/raw/main/stack.svg?v=3" alt="Tech stack orbiting a hextech core" width="100%"/>
+<img src="https://github.com/ToriLiv/ToriLiv/raw/main/stack.svg?v=4" alt="Tech stack orbiting a hextech core" width="100%"/>
 
 <img src="https://github.com/ToriLiv/ToriLiv/raw/main/id-dashboard.svg?v=1" alt="Developer ID badge and dashboard" width="100%"/>
 
@@ -14,7 +14,7 @@
 
 *Every commit raises another building, rebuilt automatically every day.*
 
-<img src="https://github.com/ToriLiv/ToriLiv/raw/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+<img src="https://github.com/ToriLiv/ToriLiv/raw/main/profile-3d-contrib/profile-arcane.svg" alt="3D contribution city" width="100%"/>
 
 <div align="center">
 

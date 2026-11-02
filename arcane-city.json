@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-arcane.svg",
+  "backgroundColor": "#15111e",
+  "foregroundColor": "#f1e6cf",
+  "strongColor": "#c8a15a",
+  "weakColor": "#9d93b3",
+  "radarColor": "#e040a0",
+  "growingAnimation": true,
+  "contribColors": [
+    "#2a2238",
+    "#1d5f8a",
+    "#2a95c8",
+    "#3fd0ff",
+    "#e040a0"
+  ]
+}
