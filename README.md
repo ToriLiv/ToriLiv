@@ -10,14 +10,6 @@
 
 </div>
 
-## 🌃 My contribution city
-
-*Every commit raises another building, rebuilt automatically every day.*
-
-<img src="https://github.com/ToriLiv/ToriLiv/raw/main/profile-3d-contrib/profile-arcane.svg" alt="3D contribution city" width="100%"/>
-
-<div align="center">
-
 <img src="https://github.com/ToriLiv/ToriLiv/raw/main/connect.svg?v=4" alt="Let's connect" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-3fd0ff?style=for-the-badge&logo=github&logoColor=0d0b14)](https://github.com/ToriLiv)
