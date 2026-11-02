@@ -25,8 +25,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-e040a0?style=for-the-badge&logo=googlechrome&logoColor=0d0b14)](https://oliviavictoria.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-f1e6cf?style=for-the-badge&logo=gmail&logoColor=0d0b14)](mailto:oamossquintanilla@gmail.com)
 
-**The harder the problem, the more I want to understand it.** ⚙️
-
 </div>
 
 <br/>
