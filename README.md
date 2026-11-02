@@ -23,7 +23,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-3fd0ff?style=for-the-badge&logo=github&logoColor=0d0b14)](https://github.com/ToriLiv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c8a15a?style=for-the-badge&logoColor=0d0b14)](https://linkedin.com/in/olivia-victoria-amoss-quintanilla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-e040a0?style=for-the-badge&logo=googlechrome&logoColor=0d0b14)](https://oliviavictoria.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-f1e6cf?style=for-the-badge&logo=gmail&logoColor=0d0b14)](mailto:oamossquintanilla@gmail.com)
+[![Email](https://img.shields.io/badge/Email-f1e6cf?style=for-the-badge&logo=gmail&logoColor=0d0b14)](https://mail.google.com/mail/?view=cm&fs=1&to=oamossquintanilla@gmail.com)
 
 </div>
 
